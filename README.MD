@@ -1,6 +1,7 @@
 ![Royal](./sha.jpg)
 <h1 align="center">Hi 👋, I'm Shahriar Hossain Royal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<ing align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/63/5d/db/635ddbf14f05d26b1dd4d3864cf67ed2.jpg" />
 - 🌱 I’m currently learning **React, Redux, TypeScript**
 
 - 💬 Ask me about **React**
