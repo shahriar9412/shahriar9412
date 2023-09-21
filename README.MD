@@ -1,14 +1,15 @@
 ![Royal](./sha.jpg)
 <h1 align="center">Hi 👋, I'm Shahriar Hossain Royal</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/63/5d/db/635ddbf14f05d26b1dd4d3864cf67ed2.jpg" />  
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/63/5d/db/635ddbf14f05d26b1dd4d3864cf67ed2.jpg" />
+
 - 🌱 I’m currently learning **React, Redux, TypeScript**
 
-- 💬 Ask me about ***React***
+- 💬 Ask me about "***React***"
 
-- 📫 How to reach me **shahriar9412@gmail.com**
+- 📫 How to reach me "**shahriar9412@gmail.com**"
 
-- ⚡ Fun fact **I want to merge my brain with AI.**
+- ⚡ Fun fact "**I want to merge my brain with AI**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
