@@ -1,11 +1,11 @@
 ![Royal](./sha.jpg)
 <h1 align="center">Hi 👋, I'm Shahriar Hossain Royal</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/63/5d/db/635ddbf14f05d26b1dd4d3864cf67ed2.jpg" />
 <blockquote cite="https://quotedtext.com/albert-einstein-best-inspiration-and-motivational-quotes/">
                 Failure and deprivation are the best educators and purifiers.
                 <small>– Albert Einstein</small>
             </blockquote>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/63/5d/db/635ddbf14f05d26b1dd4d3864cf67ed2.jpg" />
 
 - 🌱 I’m currently learning "**React, Redux, TypeScript**"
 
