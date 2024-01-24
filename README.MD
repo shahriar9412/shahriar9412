@@ -1,6 +1,6 @@
+![Royal](./sha.jpg)
 <h1 align="center">Hi 👋, I'm Shahriar Hossain Royal</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
-[Royal](./sha.jpg)
 <blockquote cite="https://quotedtext.com/albert-einstein-best-inspiration-and-motivational-quotes/">
                 Failure and deprivation are the best educators and purifiers.
                 <small>– Albert Einstein</small>
